@@ -4,14 +4,46 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0BgrygASTKsJHgRGDoao-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="180" width="120" height="60" as="geometry" />
+        <object label="用户" id="0BgrygASTKsJHgRGDoao-4">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+            <mxGeometry x="160" y="200" width="60" height="90" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="0BgrygASTKsJHgRGDoao-10" value="监控配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0BgrygASTKsJHgRGDoao-2" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="300" width="60" height="80" as="geometry" />
+        <mxCell id="0BgrygASTKsJHgRGDoao-11" value="展示用户已有监控信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="170" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0BgrygASTKsJHgRGDoao-3" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="240" width="80" height="80" as="geometry" />
+        <mxCell id="0BgrygASTKsJHgRGDoao-12" value="接受告警" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="260" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0BgrygASTKsJHgRGDoao-13" value="查看告警信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0BgrygASTKsJHgRGDoao-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="0BgrygASTKsJHgRGDoao-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="240" as="sourcePoint" />
+            <mxPoint x="280" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0BgrygASTKsJHgRGDoao-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="0BgrygASTKsJHgRGDoao-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="240" as="sourcePoint" />
+            <mxPoint x="280" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0BgrygASTKsJHgRGDoao-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="0BgrygASTKsJHgRGDoao-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="240" as="sourcePoint" />
+            <mxPoint x="280" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0BgrygASTKsJHgRGDoao-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="0BgrygASTKsJHgRGDoao-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="240" as="sourcePoint" />
+            <mxPoint x="280" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
