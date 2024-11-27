@@ -123,9 +123,6 @@
         <mxCell id="x51nU_Jw9TD-8PZG_cWg-81" value="kafka" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="475" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x51nU_Jw9TD-8PZG_cWg-85" value="解析存储" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="535" y="290" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="x51nU_Jw9TD-8PZG_cWg-86" value="业务应用" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="384" y="150" width="120" height="60" as="geometry" />
         </mxCell>
