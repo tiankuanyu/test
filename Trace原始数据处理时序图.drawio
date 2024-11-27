@@ -7,28 +7,28 @@
         <mxCell id="rUDsLR25-DEcQ4q1slk1-1" value="SDK" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="60" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rUDsLR25-DEcQ4q1slk1-2" value="Config" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rUDsLR25-DEcQ4q1slk1-2" value=":Config" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="65" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rUDsLR25-DEcQ4q1slk1-15" value="Collector" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="65" width="50" height="50" as="geometry" />
+        <mxCell id="rUDsLR25-DEcQ4q1slk1-15" value=":Collector" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="65" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rUDsLR25-DEcQ4q1slk1-16" value="Consumer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rUDsLR25-DEcQ4q1slk1-16" value=":Consumer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="65" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rUDsLR25-DEcQ4q1slk1-17" value="HBase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rUDsLR25-DEcQ4q1slk1-17" value=":HBase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="389" y="65" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rUDsLR25-DEcQ4q1slk1-18" value="ES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rUDsLR25-DEcQ4q1slk1-18" value=":ES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="65" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rUDsLR25-DEcQ4q1slk1-19" value="Topology" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="65" width="50" height="50" as="geometry" />
+        <mxCell id="rUDsLR25-DEcQ4q1slk1-19" value=":Topology" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="65" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rUDsLR25-DEcQ4q1slk1-20" value="Mysql" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rUDsLR25-DEcQ4q1slk1-20" value=":Mysql" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="65" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rUDsLR25-DEcQ4q1slk1-21" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rUDsLR25-DEcQ4q1slk1-21" value=":Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="65" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rUDsLR25-DEcQ4q1slk1-22" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" edge="1" parent="1">
